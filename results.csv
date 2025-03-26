@@ -1,0 +1,6 @@
+Algorithm,Average Turnaround Time,Average Waiting Time,Average Response Time,CPU Utilization (%),Throughput (processes/unit time)
+FCFS,10.75,5.50,5.50,100.00,0.19
+SJF,9.25,4.00,4.00,100.00,0.19
+SRTF,9.25,4.00,4.00,100.00,0.19
+RR,5.00,2.50,0.00,175.00,0.33
+Priority,10.75,5.50,5.50,100.00,0.19
